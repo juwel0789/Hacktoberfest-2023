@@ -15,3 +15,8 @@
 - Location: Itahari, Province 1, Nepal
 - Bio: I am a full-stack MERN developer. I also have a fair foundation of Java, Python and C#.
 - GitHub: [if1eight0sty](https://github.com/if1eight0sty)
+
+#### Name: [Juwel Rana](https://github.com/juwel0789)
+- Location: Beldanga, WestBengal, India
+- Bio: SEO Specalist
+- GitHub: [juwel0789](https://github.com/juwel0789)
